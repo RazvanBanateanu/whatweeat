@@ -1,0 +1,52 @@
+{
+    "food": [
+        {         
+            "name": "Burger",
+            "ingredients": ["1 pound (450g) ground beef (preferably 80/20 blend for juiciness)",
+                            "4 hamburger buns",
+                            "4 slices of cheese (American, cheddar, or your choice)",
+                            "Lettuce leaves",
+                            "Tomato slices",
+                            "Onion slices (optional)",
+                            "Pickles (optional)",
+                            "Ketchup",
+                            "Mustard",
+                            "Salt",
+                            "Pepper",
+                            "Olive oil or butter for grilling"
+                            ],
+            "recipe" : ["Boil water, aa, ss"],
+            "tag": "meat",
+            "image": "/burger.jpg",
+            "time": 30
+        },
+
+        {             
+            "name": "Salad",
+            "ingredients": ["salt1", "pepper"],
+            "recipe" : ["Boil water, aa, ss"],
+            "tag": "vegan",
+            "image": "/salad.jpg",
+            "time": 20
+
+        },
+
+        {           
+            "name": "Fish",
+            "ingredients": ["salt3", "pepper"],
+            "recipe" : ["Boil water, aa, ss"],
+            "tag": "meat",
+            "image": "/fish.jpg",
+            "time": 40
+        },
+
+        {
+            "name": "Soup",
+            "ingredients": ["salt4", "pepper"],
+            "recipe" : ["Boil water"],
+            "tag": "meat",
+            "image": "/soup.jpg",
+            "time": 25
+        }
+    ]
+}
